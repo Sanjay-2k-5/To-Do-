@@ -1,3 +1,5 @@
+To Do Web Application
+
 Overview
 
    This is a lightweight and user-friendly to-do list application that helps users manage their tasks efficiently. Built with pure HTML, CSS, and JavaScript, it provides essential task management features, including task creation, deletion, and marking tasks as complete.
@@ -19,7 +21,7 @@ Getting Started
 
     1. Clone the Repository
 	
-        https://github.com/Sanjay-2k-5/To-Do-.git
+        git clone https://github.com/Sanjay-2k-5/To-Do-.git
         cd To Do
 
     2. Open in Browser
