@@ -36,3 +36,7 @@ How It Works
 	   •	Completed tasks will be visually struck through.
 	3. Delete a Task
 	   •	Click the “Delete” button next to a task to remove it from the list.
+    
+Contributing
+
+   Contributions are welcome! Fork the repository and submit a pull request with your improvements.
